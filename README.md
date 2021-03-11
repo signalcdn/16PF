@@ -104,6 +104,8 @@ Let's revisit the Acceptance Criteria:
 
 I don't believe that there is much value in continuing analysis on this specific dataset beyond this project. Beyond the next steps that could be performed on this data; refactoring code or improving visualisations, or building a pipeline that allows people to input their own test and receive results, I believe that the highest priority next step is to try to build a real MVP of what was outlined in the presentation.
 
+I believe I did come out of this project with the desired outcome. A renewed lease on my career aligning with lingering loose-ends of passions. 
+
 ## MVP Next Steps
 **Survey**
 * Target would be 50 people from 20 different online communities for an initial dataset
