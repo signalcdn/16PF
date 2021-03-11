@@ -27,7 +27,8 @@ I am a generalist extreme, and a Maven, as described in Malcolm Gladwell's ***Ti
 My career thus-far has consisted of a serious passion in psychology, a trip through product in the world of esports, and a few internships. People can only stay on the cusp of a limited amount of specialization, and I manage to cast both a wide net and travel with grace navigating its contents and connecting it.
 
 **MVP Acceptance Criteria**
-**As Brett Hunt, I would like to publish a final project which I can lever into a career (and I have a week to do it)**
+
+***As Brett Hunt, I would like to publish a final project which I can lever into a career (and I have a week to do it)***
     
     ✅ Dataset of responses to Cattel's 16 Personality Factors Test are clustered
     ❌ 3 Testable questions are explored and answered
@@ -131,7 +132,7 @@ I believe I did come out of this project with the desired outcome. A renewed lea
 	
 2. Gaining additional skills and experience
 	
-	I need to target a role which processes and analyses related (mental health or survey) data to build up experience, skills, and a network of thought-aligned friends. I took this data analytics bootcamp so that I could give myself the hard skills to act upon just such an idea, but I don't believe that I am ready yet.
+	I need to target a role which processes and analyses related (mental health or survey) data to build up experience, skills, and a network of thought-aligned friends. I took this data analytics bootcamp so that I could give myself the hard skills to act upon just such an idea, but I don't believe that I am ready yet. Alberta Health's [Brain Story Certification](https://www.albertafamilywellness.org/training) will be the first.
 	
 	
 3. Ponder whether I want to live the life of a CEO.
