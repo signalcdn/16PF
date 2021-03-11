@@ -6,20 +6,27 @@
 *DAFT January 2021 Berlin*
 
 ## Content
-- [Background](#background)
+- [MVP](#mvp)
 - [Questions](#questions)
-- [Dataset](#dataset)
+- [Data](#data)
 - [Cleaning](#cleaning)
 - [Feature Engineering](#feature-engineering)
 - [Analysis](#analysis)
+- [Possible Shortcomings](#possible-shortcomings)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
+- [Next Steps](#Next-Steps)
 - [Workflow](#workflow)
 - [Links](#links)
 
-**MVP Description**
+## MVP
 
 Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 week to complete a final project. I aim to maximize both the personal interest in my project and the subsequent value should it yield opportunity. The potential audience of this project is a recruiter, so I will acknowledge that.
+
+I am a generalist extreme, and a Maven, as described in Malcolm Gladwell's ***Tipping Point***
+      
+      Mavens not only collect information, but they also enthusiastically share their knowledge with other people.
+      
+My career thus-far has consisted of a serious passion in psychology, a trip through product in the world of esports, and a few internships. People can only stay on the cusp of a limited amount of specialization, and I manage to cast both a wide net and travel with grace navigating its contents and connecting it.
 
 **MVP Acceptance Criteria**
 
@@ -28,9 +35,9 @@ Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 wee
     ❌ 3 Testable questions are explored and answered
     ✅ I can cluster myself.
 
-I was distracted by a product idea. I couldn't focus on the 3 testable questions. What it turned into was something that can't possibly be explained in a 5 minute presentation. Maybe 10. Discussion around this will continue throughout the readme.
+I was distracted by a product idea. I couldn't focus on the 3 testable questions. What it turned into was something that can't possibly be explained in a 5 minute presentation. Maybe 10. 
 
-**Additional Background
+**Additional Background**
 
 I took a Psychology Minor in school so that I could learn about people and how myself and others relate to one another. I have had great struggles with my identity growing up, and I still don't know how I fit into the big picture or what kind of people are actually like me. I've always wanted to survey people, but knew I was lacking both hard and soft skills required to create positive impacts with my work.
 
@@ -44,27 +51,34 @@ I took a Psychology Minor in school so that I could learn about people and how m
 ## Questions
 
 My initial questions were quite simple. Such as:
-What factors do I value highly? What categories can I categorically eliminate people upon? What am I surprised there is alignment with?
 
-    I will have to earmark this for future iterating and denote iterations beyond the additional scope, as a large majority of the scope creep was focused on the presentation       due to the resume connotations of winning hackshow
+* What factors do I value highly? 
+* What categories can I categorically eliminate people upon? 
+* What am I surprised there is alignment with?
+
+    I will have to earmark this for future iterating (if done) and denote iterations beyond the additional scope, as a large majority of the scope creep was focused on the presentation due to the resume connotations of winning hackshow
 
 * What data/business/research/personal question you would like to answer?
 * What is the context for the question and the possible scientific or business application?
 * What are the hypotheses you would like to test in order to answer your question?  
 Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 
-# Datasets
+# Data
 ## Initial
-    1. [Open Psychometrics Data](https://openpsychometrics.org/_rawdata/)
-    2. Personal Test as a csv
 
 My initial dataset came from , and came in a very clean state, with a codebook. I was seeking an interesting test which may prove useful for K-means clustering due to its multidimensionality. In our GNOD Lab Project, we had performed a similar operation using the Spotify API. It initially had n = 49159 responses.
 
-## Additional
-    1. Test Results
-    2. Cluster Means
+   1. [Open Psychometrics Data](https://openpsychometrics.org/_rawdata/) ---- [Codebook](link)
+   2. [personal_test.csv](link)
 
-I had to manipulate the data to provide myself with some additional dataframes to perform analysis on
+
+
+## Additional
+
+I had to manipulate the data to provide myself with some additional dataframes to perform analysis on.
+   1. [Test Results](link)
+   2. [Cluster Means](link)
+
 
 
 * Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
@@ -94,17 +108,24 @@ I then imported my own manually generated test result (created using the provide
 * Include charts to demonstrate the effect of your work.
 * If you used Machine Learning in your final project, describe your feature selection process.
 
+# Possible Shortcomings
+
+* Data needs to be adjusted for individual or collectivist cultures
+
 # Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the questions you try to answer.
 
-# Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
+I don't believe that there is much value in continuing analysis on this specific dataset beyond this project. The focus will be on next steps, outlined in the following section.
 
-# Workflow
-Outline the workflow you used in your project. What were the steps?
-How did you test the accuracy of your analysis and/or machine learning algorithm?
+# Next Steps
+
+I believe that the logical next step is to try to build a real MVP.
+
+**Survey**
+* Target would be 50 people from 20 different online communities for an initial dataset
+* Questions would need to be added to prevent bots or flag potential fake responses - There is research and like best practice on survey validity here
+
+* Basically my entire presentation is a summary of my ideas that was compressed into a 5 minute package.
+* Research will need to be done on legality, security, and other relevant topics should this idea evolve.
 
 
 ## Links
