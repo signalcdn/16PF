@@ -19,7 +19,7 @@
 
 **MVP Description**
 
-Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 week to complete a final project. I aim to maximize both the personal interest in my project and the subsequent value should it yield opportunity. 
+Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 week to complete a final project. I aim to maximize both the personal interest in my project and the subsequent value should it yield opportunity. The potential audience of this project is a recruiter, so I will acknowledge that.
 
 **MVP Acceptance Criteria**
 
@@ -32,11 +32,14 @@ I was distracted by a product idea. I couldn't focus on the 3 testable questions
 
 **Additional Background
 
-I really value practicality so I'm not going to waste your time or mine with my description. Just kidding, I value time but I have a flare for distraction and the dramatic. All I would request is that you keep in mind that anything that seems like it was done quickly is due to the time of this project's scope initially being limited to 1 week. 
+I took a Psychology Minor in school so that I could learn about people and how myself and others relate to one another. I have had great struggles with my identity growing up, and I still don't know how I fit into the big picture or what kind of people are actually like me. I've always wanted to survey people, but knew I was lacking both hard and soft skills required to create positive impacts with my work.
 
-I took a Psychology Minor in school so that I could learn about people and how myself and others relate to one another.I have had great struggles with my identity growing up, and I still don't know how I fit into the big picture or what kind of people are actually like me. I've always wanted to survey people, but knew I was lacking both hard and soft skills required to create positive impacts with my work. 
+* I would like to do something with data that does not involve the gamification of a metric with consequences that are not intuitively positive (unclear or intuitively negative)
+* I would like to take advantage of my speed x depth multiplier at my optimal depth (medium complexity, high flow)
+* I would like to drive introspection in people, not comparison
+* I would like to optimize learning to, ironically, make it brainless - Granular proximal zone of development
+* I am extremely outgoing but I can't operate at my social energy level for long. Product Ownership is too draining if I end up on too much of a manager schedule.
 
-I have a background in product, so I set myself a fairly reasonable MVP. It ended up being quite quick initially. Discussion around Acceptance
 
 ## Questions
 
