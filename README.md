@@ -56,12 +56,7 @@ My initial questions were quite simple. Such as:
 * What categories can I categorically eliminate people upon? 
 * What am I surprised there is alignment with?
 
-    I will have to earmark this for future iterating (if done) and denote iterations beyond the additional scope, as a large majority of the scope creep was focused on the presentation due to the resume connotations of winning hackshow
-
-* What data/business/research/personal question you would like to answer?
-* What is the context for the question and the possible scientific or business application?
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+I will have to earmark this for future iterating (if done) and denote iterations beyond the additional scope, as a large majority of the scope creep was focused on the presentation due to the resume connotations of winning hackshow. 
 
 # Data
 ## Initial
@@ -72,19 +67,12 @@ My initial dataset came from , and came in a very clean state, with a codebook. 
    2. [personal_test.csv](link)
 
 
-
 ## Additional
 
 I had to manipulate the data to provide myself with some additional dataframes to perform analysis on.
    1. [Test Results](link)
    2. [Cluster Means](link)
 
-
-
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
 
 # Cleaning
 The data initially was solely in the form of the survey responses and had not been additionally processed. Steps taken included
@@ -100,7 +88,7 @@ The data initially was solely in the form of the survey responses and had not be
     
 # Analysis
 
-I used K-means clustering to test the data and identify broad clusters based on all of the test factors. The goal here was simply to cluster.
+Analysis can be found in [EDA](https://github.com/signalcdn/16PF/blob/main/EDA.ipynb)
 
 I then imported my own manually generated test result (created using the provided codebook).
 * Overview the general steps you went through to analyze your data in order to test your hypothesis.
@@ -110,16 +98,13 @@ I then imported my own manually generated test result (created using the provide
 
 # Possible Shortcomings
 
-* Data needs to be adjusted for individual or collectivist cultures
+* Data represents highly individualistic cultures
 
 # Conclusion
 
-I don't believe that there is much value in continuing analysis on this specific dataset beyond this project. The focus will be on next steps, outlined in the following section.
+I don't believe that there is much value in continuing analysis on this specific dataset beyond this project. Beyond the next steps that could be performed on this data; refactoring code or improving visualisations, or building a pipeline that allows people to input their own test and receive results, I believe that the highest priority next step is to try to build a real MVP of what was outlined in the presentation.
 
-# Next Steps
-
-I believe that the logical next step is to try to build a real MVP.
-
+## MVP Next Steps
 **Survey**
 * Target would be 50 people from 20 different online communities for an initial dataset
 * Questions would need to be added to prevent bots or flag potential fake responses - There is research and like best practice on survey validity here
