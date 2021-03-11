@@ -73,19 +73,19 @@ I had to manipulate the data to provide myself with some additional dataframes t
    2. [Cluster Means](link)
 
 
-# Cleaning
+## Cleaning
 The data initially was solely in the form of the survey responses and had not been additionally processed. Steps taken included
 
     1. Respondents under 16
     2. Using response sums to determine validity
     3. Eliminating Accuracy Scores outside of the 0-100 Range
   
-# Feature Engineering
+## Feature Engineering
 
   The 16 Personality Factors were then engineered and weighted using the following weights and keys.
   [16PF Key](https://ipip.ori.org/new16PFKey.htm)
     
-# Analysis
+## Analysis
 
 Analysis and visualisations can be found in [EDA](https://github.com/signalcdn/16PF/blob/main/EDA.ipynb) and the [Slides](https://docs.google.com/presentation/d/1R72-R39yuZX5N6m_s9TgAdZO4dB-4qyhevQ8cyn099s/edit?usp=sharing)  
 
@@ -102,7 +102,6 @@ I don't believe that there is much value in continuing analysis on this specific
 
 * Basically my entire presentation is a summary of my ideas that was compressed into a 5 minute package.
 * Research will need to be done on legality, security, and other relevant topics should this idea evolve.
-
 
 ## Links
 
