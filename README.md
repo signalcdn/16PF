@@ -19,7 +19,7 @@
 
 ## MVP
 
-Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 week to complete a final project. I aim to maximize both the personal interest in my project and the subsequent value should it yield opportunity. The potential audience of this project is a recruiter, so I will acknowledge that.
+Ironhack's Data Analytics bootcamp consists of 8 weeks of instruction, and 1 week to complete a final project. I aim to maximize both the personal interest in my project and the subsequent value should it yield opportunity. The potential audience of this project is a recruiter, so I will acknowledge that. If you're hiring me, you're going to want to know how I work and think, because I'm going to be doing a lot of it. 
 
 I am a generalist extreme, and a Maven, as described in Malcolm Gladwell's ***Tipping Point***
       
@@ -28,13 +28,12 @@ I am a generalist extreme, and a Maven, as described in Malcolm Gladwell's ***Ti
 My career thus-far has consisted of a serious passion in psychology, a trip through product in the world of esports, and a few internships. People can only stay on the cusp of a limited amount of specialization, and I manage to cast both a wide net and travel with grace navigating its contents and connecting it.
 
 **MVP Acceptance Criteria**
-
-    **As Brett Hunt, I would like to publish a final project which I can lever into a career**
+**As Brett Hunt, I would like to publish a final project which I can lever into a career (and I have a week to do it)**
+    
     ✅ Dataset of responses to Cattel's 16 Personality Factors Test are clustered
     ❌ 3 Testable questions are explored and answered
     ✅ I can cluster myself.
-
-I was distracted by a product idea. I couldn't focus on the 3 testable questions. What it turned into was something that can't possibly be explained in a 5 minute presentation. Maybe 10. 
+    
 
 **Additional Background**
 
@@ -92,6 +91,16 @@ Analysis and visualisations can be found in [EDA](https://github.com/signalcdn/1
 I then imported my own manually generated test result (created using the provided codebook).
 
 # Conclusion
+
+Let's revisit the Acceptance Criteria:
+
+    ✅ Dataset of responses to Cattel's 16 Personality Factors Test are clustered
+    ❌ 3 Testable questions are explored and answered
+    ✅ I can cluster myself.
+
+1. Clustering worked but was not strong
+2. I got focused on the product idea, a small step towards real world value > random analysis.
+3. I was placed in Cluster 3.
 
 I don't believe that there is much value in continuing analysis on this specific dataset beyond this project. Beyond the next steps that could be performed on this data; refactoring code or improving visualisations, or building a pipeline that allows people to input their own test and receive results, I believe that the highest priority next step is to try to build a real MVP of what was outlined in the presentation.
 
