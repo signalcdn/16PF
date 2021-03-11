@@ -12,7 +12,6 @@
 - [Cleaning](#cleaning)
 - [Feature Engineering](#feature-engineering)
 - [Analysis](#analysis)
-- [Possible Shortcomings](#possible-shortcomings)
 - [Conclusion](#conclusion)
 - [Next Steps](#Next-Steps)
 - [Workflow](#workflow)
@@ -88,17 +87,9 @@ The data initially was solely in the form of the survey responses and had not be
     
 # Analysis
 
-Analysis can be found in [EDA](https://github.com/signalcdn/16PF/blob/main/EDA.ipynb)
+Analysis and visualisations can be found in [EDA](https://github.com/signalcdn/16PF/blob/main/EDA.ipynb) and the [Slides](https://docs.google.com/presentation/d/1R72-R39yuZX5N6m_s9TgAdZO4dB-4qyhevQ8cyn099s/edit?usp=sharing)  
 
 I then imported my own manually generated test result (created using the provided codebook).
-* Overview the general steps you went through to analyze your data in order to test your hypothesis.
-* Document each step of your data exploration and analysis.
-* Include charts to demonstrate the effect of your work.
-* If you used Machine Learning in your final project, describe your feature selection process.
-
-# Possible Shortcomings
-
-* Data represents highly individualistic cultures
 
 # Conclusion
 
