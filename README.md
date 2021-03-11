@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Practical Connections: Driving Positive Outcomes through Self-Understanding
-*Brett Hunt*
 
-*DAFT January 2021 Berlin*
+**DAFT January 2021 Berlin**
+# Practical Connections: Driving Positive Outcomes through Self-Understanding
+**Brett Hunt**
 
 ## Content
 - [MVP](#mvp)
@@ -13,8 +13,7 @@
 - [Feature Engineering](#feature-engineering)
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
-- [Next Steps](#Next-Steps)
-- [Workflow](#workflow)
+- [MVP Next Steps](#mvp-Next-Steps)
 - [Links](#links)
 
 ## MVP
@@ -70,7 +69,7 @@ My initial dataset came from , and came in a very clean state, with a codebook. 
 I had to manipulate the data to provide myself with some additional dataframes to perform analysis on.
    1. [Test Results](link)
    2. [Cluster Means](link)
-
+I then imported my own manually generated test result (created using the provided codebook).
 
 ## Cleaning
 The data initially was solely in the form of the survey responses and had not been additionally processed. Steps taken included
@@ -86,9 +85,12 @@ The data initially was solely in the form of the survey responses and had not be
     
 ## Analysis
 
-Analysis and visualisations can be found in [EDA](https://github.com/signalcdn/16PF/blob/main/EDA.ipynb) and the [Slides](https://docs.google.com/presentation/d/1R72-R39yuZX5N6m_s9TgAdZO4dB-4qyhevQ8cyn099s/edit?usp=sharing)  
+📊 [Analysis](https://github.com/signalcdn/16PF/blob/main/analysis.ipynb)
 
-I then imported my own manually generated test result (created using the provided codebook).
+## Product Presentation
+
+🖥[Slides](https://docs.google.com/presentation/d/1R72-R39yuZX5N6m_s9TgAdZO4dB-4qyhevQ8cyn099s/edit?usp=sharing)  
+
 
 # Conclusion
 
@@ -113,6 +115,28 @@ I believe I did come out of this project with the desired outcome. A renewed lea
 
 * Basically my entire presentation is a summary of my ideas that was compressed into a 5 minute package.
 * Research will need to be done on legality, security, and other relevant topics should this idea evolve.
+
+## Product Notes
+* The Clusters are representative of any potential sample or subsample
+
+* Data Collection creates a flywheel effect wherein the data becomes more useful the more diverse it becomes
+
+* The project, should it be a nonprofit. Lack of data sale drives willingness to use  with it becoming more useful the more people participate
+
+## Career Steps
+
+1. Interviewing practitioners and experts
+
+	I need to interview practictioners and experts to see where and when psychological testing is and isn't useful, and seek out additional ways to derive value from obtained data.
+	
+2. Gaining additional skills and experience
+	
+	I need to target a role which processes and analyses related (mental health or survey) data to build up experience, skills, and a network of thought-aligned friends. I took this data analytics bootcamp so that I could give myself the hard skills to act upon just such an idea, but I don't believe that I am ready yet.
+	
+	
+3. Ponder whether I want to live the life of a CEO.
+	
+	I'm serious.
 
 ## Links
 
