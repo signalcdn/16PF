@@ -143,4 +143,4 @@ I believe I did come out of this project with the desired outcome. A renewed lea
 
 [Repository](https://github.com/signalcdn)  
 [Slides](https://docs.google.com/presentation/d/1R72-R39yuZX5N6m_s9TgAdZO4dB-4qyhevQ8cyn099s/edit?usp=sharing)  
-[Notion](https://www.notion.so/4b480f1de32f415f942bf78e9b006bd1?v=db5d5343450045a7b9b8c934a26c86be)  
+[Notion](https://www.notion.so/Project-Scoping-603005eb016640909b149a1603844ed2)  
