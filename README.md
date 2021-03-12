@@ -86,7 +86,7 @@ The data initially was solely in the form of the survey responses and had not be
     
 ## Analysis
 
-📊 [Analysis](https://github.com/signalcdn/16PF/blob/main/analysis.ipynb)
+📊 [Analysis](https://github.com/signalcdn/16PF/blob/main/Analysis.ipynb)
 
 ## Product Presentation
 
