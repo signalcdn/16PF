@@ -40,10 +40,10 @@ My career thus-far has consisted of a serious passion in psychology, a trip thro
 I took a Psychology Minor in school so that I could learn about people and how myself and others relate to one another. I have had great struggles with my identity growing up, and I still don't know how I fit into the big picture or what kind of people are actually like me. I've always wanted to survey people, but knew I was lacking both hard and soft skills required to create positive impacts with my work.
 
 * I would like to do something with data that does not involve the gamification of a metric with consequences that are not intuitively positive (unclear or intuitively negative)
-* I would like to take advantage of my speed x depth multiplier at my optimal depth (medium complexity, high flow)
+* I would like to take advantage of my speed x depth multiplier at an optimal depth (medium complexity, high flow)
 * I would like to drive introspection in people, not comparison
 * I would like to optimize learning to, ironically, make it brainless - Granular proximal zone of development
-* I am extremely outgoing but I can't operate at my social energy level for long. Product Ownership is too draining if I end up on too much of a manager schedule.
+* I need to be on a [maker's schedule.](http://www.paulgraham.com/makersschedule.html) I am extremely outgoing but I can't operate at my social energy level for long. Product Ownership is too draining if I end up on too much of a manager schedule. 
 
 
 ## Questions
